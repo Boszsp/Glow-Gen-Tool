@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html>
+    <head>
+        <link href="style.css" rel="stylesheet" />
+        
+    </head>
+    <body>
+        <div class="grid-cont">
+           <div id="glow-item" class="flex-cont">
+
+           </div>
+           <div class="flex-cont" id="glow-sett">
+                <form oninput="displayglow()">
+                    <p id="wg">Glow Gen Tool</p>
+
+                    <br/>
+                    <label>Glow Color1</label>
+                    <input type="color" class="form-cl" value="#ffffff" />
+                    <br/>
+                    
+                    
+                    
+                    <br />
+                    <label>Spread </label>
+                    <input type="range"  value="0" max="100" class="slider" id="sp" />
+                    <label>Radius </label>
+                    <input type="range"  value="10" max="1000" class="slider" id="rd" />
+
+                    <br/> <br/> 
+                    <label>Css</label>
+                    <textarea id="sum"> </textarea>
+                    
+                        <a href="https://github.com/Tbcsos/Glow-Gen-Tool"><img src="GitHub-Mark-Light-32px.png"  /></a>
+                        <a href="mailto:bossgeeg123456@gmail.com"><h5>@bossgeeg</h5></a>
+                    
+                </form>
+           </div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
