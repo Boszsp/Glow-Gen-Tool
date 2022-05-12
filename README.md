@@ -14,4 +14,4 @@ font :
 https://fonts.google.com <br>
 github icon :
 https://github.com/logos
-###### by [©2021 bossgeeg](mailto:bossgeeg123456@gmail.com)
+###### by ©2021 bossgeeg
