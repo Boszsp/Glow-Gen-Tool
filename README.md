@@ -14,5 +14,3 @@ font :
 https://fonts.google.com <br>
 github icon :
 https://github.com/logos
-###### by ©2021 bossgeeg/[©2022 BoszGTec](https://github.com/BoszGTec)
-
